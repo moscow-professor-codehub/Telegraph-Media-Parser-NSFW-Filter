@@ -27,7 +27,7 @@ It supports keyword-based link generation (with automatic transliteration from R
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/telegraph-media-harvester.git
+git clone https://github.com/moscow-professor-codehub/telegraph-media-harvester.git
 cd telegraph-media-harvester
 ```
 
@@ -115,7 +115,7 @@ This project is distributed under the **MIT License**.
 
 **Important usage condition**: When copying, modifying, or distributing this code, you **must** retain the original copyright notice and explicitly mention the original author (Your Name) in your project or documentation.
 
-For more details, see the [`LICENSE`](LICENSE) file.
+For more details, see the [`LICENSE`](LICENSE)  file.
 
 ---
 
@@ -136,4 +136,3 @@ For updates, support, or feedback, join our Telegram channel: [t.me/adapter_prof
 ---
 
 If you encounter any issues or have questions, please open an **Issue** in this repository. Happy scraping! 🚀
-```
