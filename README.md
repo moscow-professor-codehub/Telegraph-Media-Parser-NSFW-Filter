@@ -27,8 +27,8 @@ It supports keyword-based link generation (with automatic transliteration from R
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/moscow-professor-codehub/telegraph-media-harvester.git
-cd telegraph-media-harvester
+git clone https://github.com/moscow-professor-codehub/Telegraph-Media-Parser-NSFW-Filter.git
+cd Telegraph-Media-Parser-NSFW-Filter
 ```
 
 ### 2. Install dependencies
